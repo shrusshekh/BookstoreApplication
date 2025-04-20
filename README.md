@@ -104,9 +104,6 @@ Each phase includes structured deliverables:
 **Owner Remove Books Screen**
 ![image](https://github.com/user-attachments/assets/ab55d6e0-df0c-4e68-ab33-7194eb020636)
 
-**Owner Customer Manager Screen**
-![image](https://github.com/user-attachments/assets/c2ad7dcc-0db9-4a84-b2bf-a2824460b8c0)
-
 **Owner Add Customer Screen** 
 ![image](https://github.com/user-attachments/assets/555f2854-5a02-4b2c-95cc-c6b803c06186)
 
