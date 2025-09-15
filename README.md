@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 This project involves the analysis, design, and implementation of a **GUI-based Bookstore Application** using **JavaFX** and object-oriented principles. The application supports multiple user roles and demonstrates the use of design patterns and software architecture practices learned in class.
 
