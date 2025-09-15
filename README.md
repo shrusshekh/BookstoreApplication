@@ -49,6 +49,10 @@ This project involves the analysis, design, and implementation of a **GUI-based 
 - Redeems points (100 points = 1 CAD off)
 - Status changes dynamically between **Silver** and **Gold** based on total points
 
+### 🛍️ **Use Case Diagram**
+<img width="1494" height="874" alt="image" src="https://github.com/user-attachments/assets/4ca249ac-2351-4998-bdf1-2fd855e2c116" />
+
+
 ---
 
 ## 💡 Key Features
