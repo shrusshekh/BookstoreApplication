@@ -13,7 +13,7 @@ This project involves the analysis, design, and implementation of a **GUI-based 
 
 ---
 
-## 🎯 Objectives
+## Objectives
 
 - Design and implement using the **State Design Pattern**
 - Build a GUI-based application with **JavaFX**
@@ -22,7 +22,7 @@ This project involves the analysis, design, and implementation of a **GUI-based 
 
 ---
 
-## 🛠 Technologies
+## Technologies
 
 - Java (JavaFX)
 - NetBeans IDE (No Maven)
@@ -32,15 +32,15 @@ This project involves the analysis, design, and implementation of a **GUI-based 
 
 ---
 
-## 👤 Application Roles
+## Application Roles
 
-### 🧑‍💼 **Owner**
+### **Owner**
 - Can add/delete **books** and **customers**
 - Views and manages all records
 - Accesses an admin panel after logging in with credentials:  
   `username: admin`, `password: admin`
 
-### 🛍️ **Customer**
+### **Customer**
 - Logs in with their own credentials
 - Can browse books, select and purchase using either:
   - Regular buy
@@ -49,13 +49,13 @@ This project involves the analysis, design, and implementation of a **GUI-based 
 - Redeems points (100 points = 1 CAD off)
 - Status changes dynamically between **Silver** and **Gold** based on total points
 
-### 🛍️ **Use Case Diagram**
+### **Use Case Diagram**
 <img width="1494" height="874" alt="image" src="https://github.com/user-attachments/assets/4ca249ac-2351-4998-bdf1-2fd855e2c116" />
 
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 - **Single-window GUI**: Interface updates without spawning multiple windows
 - **Persistent Storage**: 
@@ -68,7 +68,7 @@ This project involves the analysis, design, and implementation of a **GUI-based 
 
 ---
 
-## 📁 Project Deliverables
+## Project Deliverables
 
 Each phase includes structured deliverables:
 
@@ -80,7 +80,7 @@ Each phase includes structured deliverables:
 
 ---
 
-## 🧪 Example Scenarios
+## Example Scenarios
 
 1. **Customer earns points and achieves Gold status:**
    - Buys books worth $700 → earns 7000 points → Status: Gold
@@ -91,7 +91,7 @@ Each phase includes structured deliverables:
 
 ---
 
-## 📷 Bookstore GUI Application Screenshots
+## Bookstore GUI Application Screenshots
 
 **Login Screen**
 ![image](https://github.com/user-attachments/assets/cc650b33-3053-4fdc-aa71-7b36d64738ea)
